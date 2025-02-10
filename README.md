@@ -4,7 +4,7 @@
 
  - [Hello World](https://github.com/joshcybertest/LABURL)
  
- - [Internal secuity audit]https://github.com/anonymous2343/Internal-Security-Audit/tree/main)
+ - [Internal secuity audit](https://github.com/anonymous2343/Internal-Security-Audit/tree/main)
 <h2>Certifications</h2>
 
 - [Tutorial Active Directory Home Lab ](https://www.youtube.com/watch?v=a83ASGn_V_s)
